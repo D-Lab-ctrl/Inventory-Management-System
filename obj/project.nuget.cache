@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7yDWiIU7UhooJ8oBdUqxcxJroTlWCs12I0y/JB64xdoFDiIthfuGvnDaF/3WbMZGhvz9W4n0PM0phyHHyz8Ppg==",
+  "dgSpecHash": "ockqN88V24BnbbZFPQsgnC6MiqIFYOOeBeeKN/Jce/GjpQjsNN+HvHSHgRJub9Djrge2l/ZKj8Mg1SZ/0/QhVA==",
   "success": true,
   "projectFilePath": "/home/enrico/Desktop/Csharp/Project/Project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/enrico/.nuget/packages/microsoft.aspnetcore.cryptography.internal/9.0.3/microsoft.aspnetcore.cryptography.internal.9.0.3.nupkg.sha512",
+    "/home/enrico/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/9.0.3/microsoft.aspnetcore.cryptography.keyderivation.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

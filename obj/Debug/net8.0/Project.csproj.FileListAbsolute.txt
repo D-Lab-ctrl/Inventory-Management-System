@@ -12,3 +12,8 @@
 /home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.pdb
 /home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.genruntimeconfig.cache
 /home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/ref/Project.dll
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.sourcelink.json
+/home/enrico/Desktop/Csharp/Project/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/enrico/Desktop/Csharp/Project/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.csproj.AssemblyReference.cache
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.csproj.CopyComplete
