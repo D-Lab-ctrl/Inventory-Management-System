@@ -1,0 +1,14 @@
+/home/enrico/Desktop/Csharp/Project/bin/Debug/net8.0/Project
+/home/enrico/Desktop/Csharp/Project/bin/Debug/net8.0/Project.deps.json
+/home/enrico/Desktop/Csharp/Project/bin/Debug/net8.0/Project.runtimeconfig.json
+/home/enrico/Desktop/Csharp/Project/bin/Debug/net8.0/Project.dll
+/home/enrico/Desktop/Csharp/Project/bin/Debug/net8.0/Project.pdb
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.AssemblyInfoInputs.cache
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.AssemblyInfo.cs
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.csproj.CoreCompileInputs.cache
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.dll
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/refint/Project.dll
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.pdb
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/Project.genruntimeconfig.cache
+/home/enrico/Desktop/Csharp/Project/obj/Debug/net8.0/ref/Project.dll
